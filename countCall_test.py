@@ -8,7 +8,7 @@ def test_if_empty():
 
 
 def test_if_one():
-    diet - SmartDiet()
+    diet = SmartDiet()
 
     diet.register_food("Хлеб", 300)
     diet.add_food("Хлеб", 2)
